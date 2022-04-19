@@ -1,1 +1,1 @@
-Bij dit project moesten student van de hogeschool van Amsterdam aan de hand van sensorische data bewegingen voorspellen
+Bij dit project moesten studenten van de hogeschool van Amsterdam aan de hand van sensorische data bewegingen voorspellen
